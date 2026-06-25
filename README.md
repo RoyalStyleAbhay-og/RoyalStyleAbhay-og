@@ -1,3 +1,5 @@
+# Hi 👋, I'm Abhay Kumar
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on Electronics & IoT Projects
@@ -6,7 +8,6 @@
 - 🎯 Goal: Build innovative hardware + software solutions
 
 ## 🛠️ Skills
-
 **Programming**
 - C
 - C++
