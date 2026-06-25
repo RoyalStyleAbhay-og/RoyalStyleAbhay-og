@@ -1,16 +1,32 @@
-## Hi there 👋
+#Hi 👋, I'm Abhay Kumar
 
-<!--
-**RoyalStyleAbhay-og/RoyalStyleAbhay-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Electronics & Communication Engineering (ECE) Student
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Currently learning C, Python, HTML, CSS, Git & GitHub
+- 🔌 Interested in Embedded Systems, IoT and Electronics
+- 🚀 Building real-world engineering projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- Arduino
+- ESP8266
+
+## 🚀 Projects
+- 🌱 Smart Plant Care System
+- 🦯 Blind Assist Navigation Stick
+- 📐 Laser Parallax Degree Calculator
+
+## 🎯 Goals
+- Improve Embedded Systems Skills
+- Build Open Source Projects
+- Become a Skilled Electronics Engineer
+
+## 📫 Connect with Me
+LinkedIn: https://linkedin.com/in/abhay-kumar-ece
+
+⭐ Thanks for visiting my profile!
