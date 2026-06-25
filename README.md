@@ -1,20 +1,30 @@
-#Hi 👋, I'm Abhay Kumar
-
-🎓 B.Tech Electronics & Communication Engineering (ECE) Student
-
 ## 👨‍💻 About Me
-- 🌱 Currently learning C, Python, HTML, CSS, Git & GitHub
-- 🔌 Interested in Embedded Systems, IoT and Electronics
-- 🚀 Building real-world engineering projects
+
+- 🔭 Currently working on Electronics & IoT Projects
+- 🌱 Learning Embedded Systems, Git & Web Development
+- 💡 Interested in Open Source and Real-world Engineering Projects
+- 🎯 Goal: Build innovative hardware + software solutions
 
 ## 🛠️ Skills
+
+**Programming**
 - C
+- C++
 - Python
+
+**Web**
 - HTML
 - CSS
-- Git & GitHub
+
+**Hardware**
 - Arduino
 - ESP8266
+- Embedded Systems
+- Electronics
+
+**Tools**
+- Git
+- GitHub
 
 ## 🚀 Projects
 - 🌱 Smart Plant Care System
